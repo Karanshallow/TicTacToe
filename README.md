@@ -4,4 +4,4 @@ Done by implementing a decision tree which updates after each game on whether th
 three in a row by the opponent. 
 If no threat is found, it will turn to the decison tree as to its best posible move. 
 
-After the player quits out of the session, the results of th games will be updated and saved to the pickle file for the next time the program is opened. 
+After the player quits out of the session, the results of the games will be updated and saved to the pickle file for the next time the program is opened. 
